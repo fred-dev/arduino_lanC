@@ -1,0 +1,49 @@
+body     {
+	 font-family:Arial,Helvetica,sans-serif;
+         font-size:14;
+         line-height:14pt;
+         color:#000000;
+         background-color:#ffffff;
+}
+table    {
+         font-size:14;
+         line-height:14pt;
+}
+.legend  {
+         font-size:10;
+         line-height:normal;
+}
+.font2   {
+         font-size:12;
+         line-height:normal;
+}
+h1       {
+         font-size:28;
+         line-height:normal;
+}
+h2       {
+         font-size:22;
+}
+h3       {
+         font-size:16;
+}
+a:link   {
+         color:#000060;
+         text-decoration:none;
+}
+a:visited {
+         color:#400060;
+         text-decoration:none;
+}
+a:active {
+         color:#801010;
+         text-decoration:underline;
+}
+a:hover  {
+         color:#707070;
+         text-decoration:underline;
+}
+a:focus  {
+         color:#404040;
+         text-decoration:underline;
+}
