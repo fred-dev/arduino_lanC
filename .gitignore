@@ -1,0 +1,9 @@
+*.zip
+*.mov
+*.jpg
+*.jxml
+
+*.app/
+*.o
+*.exe
+.DS_Store
