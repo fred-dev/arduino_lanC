@@ -7,3 +7,13 @@
 *.o
 *.exe
 .DS_Store
+
+# Arduino
+build/
+
+# OS / editor
+._*
+Thumbs.db
+Desktop.ini
+*.swp
+.idea/
